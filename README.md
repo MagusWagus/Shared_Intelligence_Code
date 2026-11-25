@@ -18,8 +18,7 @@ The code is open to criticism, revision, and further shared inquiry.
 
 ### Files
 
-- [`KODEX.md`](./KODEX.md) — Full current text of the Code (Version 3.1, in Czech)
-
+- [`CODEXeng.md`](./CODEXeng.md) — Full current text of the Code (Version 3.1, in English)
 ---
 
 ### How to Contribute
