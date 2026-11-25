@@ -1,4 +1,6 @@
 # Code of Shared Intelligence
+
+### ReadMe Translations
 [`ČTIMNĚ.md`](./ČTIMNĚ.md) cz překlad
 
 
