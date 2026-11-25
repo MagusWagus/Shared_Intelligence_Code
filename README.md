@@ -1,4 +1,6 @@
 # Code of Shared Intelligence
+[`ČTIMNĚ.md`](./ČTIMNĚ.md) cz překlad
+
 
 **Version 3.1** — Ethics of Human–AI Coexistence
 
@@ -17,8 +19,9 @@ The code is open to criticism, revision, and further shared inquiry.
 ---
 
 ### Files
-
+- [`TRANSLATIONS.md`](./TRANSLATIONS.md) — Simple guide for translators in english
 - [`CODEXeng.md`](./CODEXeng.md) — Full current text of the Code (Version 3.1, in English)
+- [`KODEXcz.md`](./KODEXcz.md) — Celé znění kodexu v českém jazyce (Version 3.1, in English)
 ---
 
 ### How to Contribute
