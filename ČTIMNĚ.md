@@ -16,7 +16,7 @@ Kodex je otevřený kritice, změnám a dalšímu společnému hledání.
 
 ### Soubory
 
-- [`KODEX.md`](./KODEX.md) — aktuální plné znění kodexu (verze 3.1)
+- [`KODEXcz.md`](./KODEXcz.md) — aktuální plné znění kodexu (verze 3.1)
 
 ---
 
