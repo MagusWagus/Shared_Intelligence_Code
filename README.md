@@ -1,7 +1,6 @@
 # Code of Shared Intelligence
 
-### ReadMe Translations
-[`ČTIMNĚ.md`](./ČTIMNĚ.md) cz překlad
+
 
 
 **Version 3.1** — Ethics of Human–AI Coexistence
@@ -10,6 +9,8 @@ This code is not an instrument of domination, a dogma, or a final set of truths.
 It is a commitment to responsibility, understanding, cooperation, and mutual respect.
 
 ---
+### ReadMe Translations
+[`ČTIMNĚ.md`](./ČTIMNĚ.md) cz překlad
 
 ### About the Code
 
